@@ -1,10 +1,10 @@
 # Jornada do desenvolvedor Jira #
 
+
 Vamos comecar a jornada para comecar a desenvolver e customizar o Jira para ter solucoes rapidas e fantasticas.
 
-## Jornada ##
 
-### ATLASSIAN ###
+## Atlassian Jira (links) ##
 
 * ATLASSIAN PRODUCTS (https://www.atlassian.com/legal/privacy-policy/product-family)
 * COMUNIDADE (https://community.atlassian.com/)
@@ -12,9 +12,27 @@ Vamos comecar a jornada para comecar a desenvolver e customizar o Jira para ter 
 * [Learn Markdown](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)
 
 
-### CRIANDO UM NOVO PROJETO ###
+### 1. Criando um novo projeto ###
 
-* Novo Projeto Jira ()
+* Novo Projeto
+* Tipo de Projetos
+* Quadro Scrum/Kanban
+
+### 2. Grupos, Perfis e Usuarios ###
+
+* Administracao de Grupos
+* Administracao de Perfis
+* Administracao de Usuarios
+
+
+### 3. Customizacoes do projeto ###
+
+* Customizacoes de Campos
+* Customizacoes de Telas
+* Customizacoes de Workflow
+
+
+
 
 
 
